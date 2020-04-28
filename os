@@ -1,0 +1,10 @@
+import time
+print("Welcome to OS!")
+print("Unfortunately you cannot get out of this, and your PC is now mine...")
+print("But I will let you keep it as long as you behave!")
+print("Starting format...", end="\r")
+time.sleep(2)
+print("Formatting Drive C...", end="\r")
+time.sleep(5)
+print("Done.               ", end="\r")
+print()
