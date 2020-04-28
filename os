@@ -1,7 +1,10 @@
 import time
 print("Welcome to OS!")
+time.sleep(1)
 print("Unfortunately you cannot get out of this, and your PC is now mine...")
+time.sleep(2)
 print("But I will let you keep it as long as you behave!")
+time.sleep(0.5)
 print("Starting format...", end="\r")
 time.sleep(2)
 print("Formatting Drive C...", end="\r")
