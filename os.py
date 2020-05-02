@@ -1,9 +1,6 @@
 import time
-print("Welcome to OS!")
-time.sleep(1)
-print("Unfortunately you cannot get out of this, and your PC is now mine...")
-time.sleep(2)
-print("But I will let you keep it as long as you keep the OS!")
+from func import *
+hello()
 time.sleep(1)
 print("Starting format...", end="\r")
 time.sleep(2)
