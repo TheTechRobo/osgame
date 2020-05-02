@@ -39,5 +39,11 @@ def hello():
     printr("Hello, my name is TheTechRobo and yo")
     printr("Hello, my name is TheTechRobo and you")
     printr("Hello, my name is TheTechRobo and your")
+    printr("Hello, my name is TheTechRobo and your c")
+    printr("Hello, my name is TheTechRobo and your co")
+    printr("Hello, my name is TheTechRobo and your com")
+    printr("Hello, my name is TheTechRobo and your comp")
+    printr("Hello, my name is TheTechRobo and your compu")
+    printr("Hello, my name is TheTechRobo and your comput")
     
     print()
