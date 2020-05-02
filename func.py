@@ -45,4 +45,6 @@ def hello():
     printr("Hello, my name is TheTechRobo and your comp")
     printr("Hello, my name is TheTechRobo and your compu")
     printr("Hello, my name is TheTechRobo and your comput")
+    printr("Hello, my name is TheTechRobo and your compute")
+    printr("Hello, my name is TheTechRobo and your computer")
     print()
