@@ -1,10 +1,9 @@
 def hello():
-    from random import randint as r
     def sl(duration):
         import time
         time.sleep(duration)
     def printr(s):
-        d = r(0.1, 0.7)
+        d = round(random.uniform(0, 1), 1) #source: https://stackoverflow.com/a/49614185/9654083
         print(s, end="\r")
         sl(d)
     printr("H")
