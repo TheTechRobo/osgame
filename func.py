@@ -1,4 +1,5 @@
 def hello():
+    import random
     def sl(duration):
         import time
         time.sleep(duration)
