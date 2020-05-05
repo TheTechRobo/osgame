@@ -67,4 +67,8 @@ def hello():
     printr("Hello, my name is TheTechRobo and your computer has been involuntari")
     printr("Hello, my name is TheTechRobo and your computer has been involuntaril")
     printr("Hello, my name is TheTechRobo and your computer has been involuntarily ")
+    printr("Hello, my name is TheTechRobo and your computer has been involuntarily s")
+    printr("Hello, my name is TheTechRobo and your computer has been involuntarily se")
+    printr("Hello, my name is TheTechRobo and your computer has been involuntarily sele")
+    printr("Hello, my name is TheTechRobo and your computer has been involuntarily selec")
     print()
